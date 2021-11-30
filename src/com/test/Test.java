@@ -12,6 +12,8 @@ public class Test {
 		
 		System.out.println("Mi area es: "+ circle.calculateArea());
 		
+		System.out.println("hello");
+		
 
 	}
 
