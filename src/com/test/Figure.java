@@ -3,6 +3,7 @@ package com.test;
 public abstract class Figure {
 	
 	public String name;
+	int a = 1;
 	
 	public Figure (String n) {
 		
